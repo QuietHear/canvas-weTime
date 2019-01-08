@@ -1,3 +1,5 @@
+# 功能展示
+[点此观看](https://quiethear.github.io/canvas-weTime/yzl一起的时间.html "在一起的时间")(建议右键新建窗口查看)
 # 说明文档
 > ### 使用方法
 >> 下载好后组件后修改.html中`config`即可
